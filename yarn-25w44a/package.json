@@ -1,6 +1,6 @@
 {
   "name": "@minecraft-types/yarn-25w44a",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Typescript definitions for Minecraft 25w44a (Fabric/Yarn mappings), all known builds.",
   "homepage": "https://github.com/EastArctica/minecraft-types#readme",
   "bugs": {

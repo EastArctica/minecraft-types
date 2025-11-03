@@ -1,0 +1,25 @@
+{
+  "name": "@minecraft-types/yarn-24w14potato",
+  "version": "1.0.3",
+  "description": "Typescript definitions for Minecraft 24w14potato (Fabric/Yarn mappings), all known builds.",
+  "homepage": "https://github.com/EastArctica/minecraft-types#readme",
+  "bugs": {
+    "url": "https://github.com/EastArctica/minecraft-types/issues"
+  },
+  "license": "CC0-1.0",
+  "author": {
+    "name": "East_Arctica",
+    "url": "https://github.com/EastArctica"
+  },
+  "files": [
+    "README.md",
+    "LICENSE",
+    "*/index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EastArctica/minecraft-types.git",
+    "directory": "yarn-24w14potato/"
+  },
+  "types": "build.4/index.d.ts"
+}
