@@ -1,0 +1,25 @@
+﻿{
+  "name": "@minecraft-types/jdk.graal.compiler",
+  "version": "22.0.2",
+  "description": "Typescript definitions for jdk.graal.compiler from JDK 22.0.2.",
+  "homepage": "https://github.com/EastArctica/minecraft-types#readme",
+  "bugs": {
+    "url": "https://github.com/EastArctica/minecraft-types/issues"
+  },
+  "license": "CC0-1.0",
+  "author": {
+    "name": "East_Arctica",
+    "url": "https://github.com/EastArctica"
+  },
+  "files": [
+    "README.md",
+    "LICENSE",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EastArctica/minecraft-types.git",
+    "directory": "jdk.graal.compiler/"
+  },
+  "types": "index.d.ts"
+}
